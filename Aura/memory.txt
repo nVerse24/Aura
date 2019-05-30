@@ -1,0 +1,4 @@
+volume control
+pick a num
+integrate voice chat
+hardcode a bunch of shit
